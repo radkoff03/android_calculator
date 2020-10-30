@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Activity</string>
+    <string name="btn_text">Add</string>
+    <string name="upper_text">Add new task</string>
+</resources>
